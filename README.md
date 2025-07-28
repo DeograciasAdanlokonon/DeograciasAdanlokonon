@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DeograciasAdanlokonon
 - 👀 I’m interested in creating more inclusion and diversity in the way that services are rendered to populations.
-- 🌱 I’m currently an Advanced Python Developer and an Expert Excel VBA
+- 🌱 I’m currently a Data Science Aspirant and an Advanced Python Backend Developer
 - 💞️ I’m looking to collaborate on web application project
-- 📫 How to reach me contact@graciasdev.com
+- 📫 How to reach me adanlokonondeogracias1@gmail.com
 - 😄 Pronouns: I/He/him
 - ⚡ Fun fact: Coding
 
