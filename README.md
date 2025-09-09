@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeograciasAdanlokonon
 - 👀 I’m interested in creating more inclusion and diversity in the way that services are rendered to populations.
-- 🌱 I’m currently a Data Science Aspirant and an Advanced Python Backend Developer
+- 🌱 I’m currently a Data Science Aspirant and a Senior Python Backend Developer
 - 💞️ I’m looking to collaborate on web application project
 - 📫 How to reach me adanlokonondeogracias1@gmail.com
 - 😄 Pronouns: I/He/him
